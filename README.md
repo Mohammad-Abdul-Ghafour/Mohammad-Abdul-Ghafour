@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently Working on **Wagtail CMS Project**
 
-- 📫 How to reach me **mohammad1478971539@gmail.com**
+- 📫 How to reach me **mohammad.f.abdulghafour@gmail.com**
 
 - 📄 Know about my experiences [My RESUME](https://docs.google.com/document/d/1sqP-XI7zW_vJKLn0MC-HJUzWIFvaWsVte2Vfto3rPU0/edit?usp=sharing)
 
