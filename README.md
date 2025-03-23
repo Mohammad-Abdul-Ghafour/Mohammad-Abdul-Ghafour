@@ -60,10 +60,11 @@
   <h3>Frameworks and Libraries</h3>
 
   <p>
+      <a href="#"><img alt="Next" src="https://img.shields.io/badge/Next.js-292929?logo=next.js&logoColor=white"></a>
       <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-      <a href="#"><img alt="Next" src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white"></a>
-      <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a
+      <a href="#"><img alt="Turborepo" src="https://img.shields.io/badge/Turborepo-292929?logo=turborepo&logoColor=white"></a>
       <a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white"></a>
+      <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a
   </p>
 
   <h3>Databases and Cloud Hosting</h3>
