@@ -60,9 +60,9 @@
   <h3>Frameworks and Libraries</h3>
 
   <p>
-      <a href="#"><img alt="Next" src="https://img.shields.io/badge/Next.js-292929?logo=next.js&logoColor=white"></a>
       <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-      <a href="#"><img alt="Turborepo" src="https://img.shields.io/badge/Turborepo-292929?logo=turborepo&logoColor=white"></a>
+      <a href="#"><img alt="Next" src="https://img.shields.io/badge/Next.js-20232a?logo=next.js&logoColor=white"></a>
+      <a href="#"><img alt="Turborepo" src="https://img.shields.io/badge/Turborepo-20232a?logo=turborepo&logoColor=white"></a>
       <a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white"></a>
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a
   </p>
@@ -75,7 +75,7 @@
       <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
       <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
       <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
-      <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
+      <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-20232a.svg?logo=vercel&logoColor=white"></a>
   </p>
 
   <h3>Software and Tools</h3>
